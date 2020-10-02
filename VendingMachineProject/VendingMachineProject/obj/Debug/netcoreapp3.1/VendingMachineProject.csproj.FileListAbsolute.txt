@@ -1,0 +1,12 @@
+/Users/SirajRahman/Projects/VendingMachineProject/VendingMachineProject/bin/Debug/netcoreapp3.1/VendingMachineProject.deps.json
+/Users/SirajRahman/Projects/VendingMachineProject/VendingMachineProject/bin/Debug/netcoreapp3.1/VendingMachineProject.runtimeconfig.json
+/Users/SirajRahman/Projects/VendingMachineProject/VendingMachineProject/bin/Debug/netcoreapp3.1/VendingMachineProject.runtimeconfig.dev.json
+/Users/SirajRahman/Projects/VendingMachineProject/VendingMachineProject/bin/Debug/netcoreapp3.1/VendingMachineProject.dll
+/Users/SirajRahman/Projects/VendingMachineProject/VendingMachineProject/bin/Debug/netcoreapp3.1/VendingMachineProject.pdb
+/Users/SirajRahman/Projects/VendingMachineProject/VendingMachineProject/obj/Debug/netcoreapp3.1/VendingMachineProject.csprojAssemblyReference.cache
+/Users/SirajRahman/Projects/VendingMachineProject/VendingMachineProject/obj/Debug/netcoreapp3.1/VendingMachineProject.AssemblyInfoInputs.cache
+/Users/SirajRahman/Projects/VendingMachineProject/VendingMachineProject/obj/Debug/netcoreapp3.1/VendingMachineProject.AssemblyInfo.cs
+/Users/SirajRahman/Projects/VendingMachineProject/VendingMachineProject/obj/Debug/netcoreapp3.1/VendingMachineProject.csproj.CoreCompileInputs.cache
+/Users/SirajRahman/Projects/VendingMachineProject/VendingMachineProject/obj/Debug/netcoreapp3.1/VendingMachineProject.dll
+/Users/SirajRahman/Projects/VendingMachineProject/VendingMachineProject/obj/Debug/netcoreapp3.1/VendingMachineProject.pdb
+/Users/SirajRahman/Projects/VendingMachineProject/VendingMachineProject/obj/Debug/netcoreapp3.1/VendingMachineProject.genruntimeconfig.cache
